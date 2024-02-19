@@ -1,3 +1,3 @@
-const sayHello = () => console.log("Hello, Serrani!");
+const sayHello = () => console.log("Hello, Ludwig!");
 
 export { sayHello };
